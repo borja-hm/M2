@@ -93,7 +93,7 @@
 161C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\@parcel\transformer-image\package.json133729621583469893 0
 147C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\abortcontroller-polyfill133729621601551529 1
 140C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\dotenv-expand\lib133729621545740798 1
-114C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist133734839824009830 1
+114C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist133735704402052899 1
 148C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\css-select\lib\index.d.ts133729621684788941 0
 166C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\caniuse-lite\data\features\link-icon-svg.js133729621765183943 0
 140C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\@msgpackr-extract133734811504868367 1
@@ -101,11 +101,11 @@
 164C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\arraybuffer.prototype.slice\.editorconfig133730495782095418 0
 137C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\rimraf\LICENSE133730495794970951 0
 144C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\minipass\package.json133730495836120859 0
-117C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\.vscode133732248468553729 1
+117C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\.vscode133735680198993960 1
 175C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\caniuse-lite\data\features\element-scroll-methods.js133729621747999900 0
 154C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\@parcel\core\lib\projectPath.js133729621708794751 0
 164C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\2024\TypedArrayElementSize.js133730496141513893 0
-121C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\header.html133734815380494246 0
+121C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\header.html133735696203476369 0
 165C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\caniuse-lite\data\features\inline-block.js133729621760835578 0
 164C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\2021\DefinePropertyOrThrow.js133730495975208769 0
 139C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\2023133730496147437986 1
@@ -131,7 +131,7 @@
 156C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\type-fest\source\stringified.d.ts133729621642282612 0
 140C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\wrap-ansi\license133730495781726385 0
 154C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\caniuse-lite\data\regions\AM.js133729621633735469 0
-124C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\src\index.html133734839505740611 0
+124C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\src\index.html133735698682547379 0
 163C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\package-json-from-dist\dist\esm\index.js133730495807437598 0
 168C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\@parcel\bundler-default\src\DefaultBundler.js133729621574005197 0
 152C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\type-fest\source\entries.d.ts133729621590560937 0
@@ -144,7 +144,7 @@
 168C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\helpers\fractionToBinaryString.js133730495984055089 0
 187C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\sort.d.ts133729621642282612 0
 156C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\2024\IsConstructor.js133730496026361917 0
-123C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\src\style.css133733644692069123 0
+123C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\src\style.css133735697367783038 0
 150C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\@parcel\reporter-tracer\lib133729621536844589 1
 161C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\2017\CreateDataProperty.js133730495951053387 0
 166C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\resolve\test\resolver\nested_symlinks\mylib133730495921751790 1
@@ -4756,7 +4756,7 @@
 167C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\caniuse-lite\data\features\es6-generators.js133729621749326355 0
 142C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\is-extglob\index.js133729621516538870 0
 141C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\is-extglob\LICENSE133729621500840908 0
-125C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.html133734839823580987 0
+125C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.html133735704401634017 0
 147C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\@parcel\resolver-default133729621563583071 1
 143C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\is-extglob\README.md133729621492772436 0
 151C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\is-date-object\.editorconfig133730495781526927 0
@@ -7321,7 +7321,7 @@
 168C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\2015\CreateDataPropertyOrThrow.js133730495951532105 0
 166C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133729621629835921 0
 165C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\2015\CreateIterResultObject.js133730495953008171 0
-136C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.3f2b5da0.js.map133734839823940021 0
+136C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.3f2b5da0.js.map133735704401993078 0
 166C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\2015\CreateListFromArrayLike.js133730495953945646 0
 163C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\2015\CreateMethodProperty.js133730495958104516 0
 155C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\es-abstract\2015\DateFromTime.js133730495962682268 0
@@ -10287,8 +10287,8 @@
 154C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\.bin\update-browserslist-db.ps1133729621822740037 0
 133C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\.bin\which133730496148784399 0
 137C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\node_modules\.bin\which.ps1133730496148784399 0
-133C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.1c02110d.css133734839823680715 0
-137C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.1c02110d.css.map133734839823940021 0
-132C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.37580546.js133734839823680715 0
-136C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.37580546.js.map133734839823930060 0
-132C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.3f2b5da0.js133734839823680715 0
+132C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.37580546.js133735704401743722 0
+136C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.37580546.js.map133735704401993078 0
+132C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.3f2b5da0.js133735704401753697 0
+133C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.a2fdd55d.css133735704401743722 0
+137C:\Users\Toshiba\Desktop\personal\Master_UOC\uoc_master_desarrollo_web\Asignaturas\Herraminetas_HTML_CSS\pro1\dist\index.a2fdd55d.css.map133735704401993078 0
